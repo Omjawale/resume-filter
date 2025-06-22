@@ -1,13 +1,17 @@
-# Resume Filter Tool
+# Resume Filter Tool by Om Jawale
 
-A simple Streamlit app that lets you upload multiple PDF resumes and filter them based on keywords (e.g., "Python", "3 years").
+This tool lets you upload multiple resumes (PDF, Word, TXT) and filter them by keywords. It shows match percentages and allows Excel download.
 
 ## Features
-- Upload multiple PDFs
-- Enter any skill or experience keywords
-- See which resumes match all keywords
+- Supports PDF, DOCX (Word), and TXT
+- Match % for each resume
+- Download result as Excel
+- Built with Streamlit
 
-## Usage
-1. Upload PDF resumes
-2. Enter comma-separated keywords
-3. Click "Filter Resumes"
+## Created by
+**Om Jawale**  
+📧 omjawale2002@gmail.com  
+🔗 [GitHub: OmJawale](https://github.com/OmJawale)
+
+## License
+This project is owned by Om Jawale. No one is allowed to copy, sell, or re-upload this tool without permission.
